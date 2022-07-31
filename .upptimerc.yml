@@ -16,7 +16,15 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   navbar:
     - title: Status
-      href: /
+      href: https://stopmotionsimonyt.github.io/website-uptime/
 
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
