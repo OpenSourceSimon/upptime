@@ -11,10 +11,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 541,
+    "timeDay": 538,
     "timeWeek": 527,
     "timeMonth": 527,
     "timeYear": 527,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Synology QuickConnect",
+    "url": "${{ secrets.WEBSITE }}",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "synology-quick-connect",
+    "status": "down",
+    "uptime": "17.44%",
+    "uptimeDay": "17.44%",
+    "uptimeWeek": "17.44%",
+    "uptimeMonth": "17.44%",
+    "uptimeYear": "17.44%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-05": 0
+    }
   }
 ]
