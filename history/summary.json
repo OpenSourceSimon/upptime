@@ -16,5 +16,23 @@
     "timeMonth": 536,
     "timeYear": 536,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Synology NAS",
+    "url": "$WEBSITE",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "synology-nas",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
+    "dailyMinutesDown": {}
   }
 ]
