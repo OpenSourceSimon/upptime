@@ -16,25 +16,5 @@
     "timeMonth": 536,
     "timeYear": 536,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Synology QuickConnect NAS",
-    "url": "$WEBSITE",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "synology-quick-connect-nas",
-    "status": "down",
-    "uptime": "9.39%",
-    "uptimeDay": "9.39%",
-    "uptimeWeek": "9.39%",
-    "uptimeMonth": "9.39%",
-    "uptimeYear": "9.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-10": 0
-    }
   }
 ]
