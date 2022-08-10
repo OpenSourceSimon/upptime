@@ -5,9 +5,10 @@ repo: website-uptime # The name of this repository
 sites:
   - name: Simon
     url: https://simonrijntjes.nl
-  - name: Synology NAS
+  - name: Synology QuickConnect NAS
+    check: "tcp-ping"
     url: $WEBSITE
-    port: 5001
+    port: 501
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
