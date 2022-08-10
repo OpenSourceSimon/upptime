@@ -11,28 +11,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 536,
+    "timeDay": 532,
     "timeWeek": 540,
     "timeMonth": 536,
     "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Synology NAS",
+    "name": "Synology QuickConnect NAS",
     "url": "$WEBSITE",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "synology-nas",
+    "slug": "synology-quick-connect-nas",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
-    "dailyMinutesDown": {}
+    "uptime": "16.73%",
+    "uptimeDay": "16.73%",
+    "uptimeWeek": "16.73%",
+    "uptimeMonth": "16.73%",
+    "uptimeYear": "16.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-10": 0
+    }
   }
 ]
