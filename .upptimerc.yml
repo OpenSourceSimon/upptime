@@ -7,6 +7,7 @@ sites:
     url: https://simonrijntjes.nl
   - name: Synology NAS
     url: $WEBSITE
+    port: 5001
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
