@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 541,
+    "timeDay": 542,
     "timeWeek": 538,
     "timeMonth": 536,
     "timeYear": 536,
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "synology-nas",
     "status": "down",
-    "uptime": "13.40%",
-    "uptimeDay": "13.40%",
-    "uptimeWeek": "13.40%",
-    "uptimeMonth": "13.40%",
-    "uptimeYear": "13.40%",
+    "uptime": "11.28%",
+    "uptimeDay": "11.28%",
+    "uptimeWeek": "11.28%",
+    "uptimeMonth": "11.28%",
+    "uptimeYear": "11.28%",
     "time": 70,
     "timeDay": 70,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2022-08-10": 60
+      "2022-08-10": 73
     }
   }
 ]
