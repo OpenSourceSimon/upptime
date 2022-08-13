@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/simonrijntjes.nl",
     "slug": "simon",
     "status": "down",
-    "uptime": "97.43%",
-    "uptimeDay": "62.80%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "97.43%",
-    "uptimeYear": "97.43%",
-    "time": 536,
-    "timeDay": 502,
+    "uptime": "97.33%",
+    "uptimeDay": "61.32%",
+    "uptimeWeek": "94.47%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
+    "time": 535,
+    "timeDay": 500,
     "timeWeek": 541,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2022-08-13": 429,
+      "2022-08-13": 450,
       "2022-08-12": 107
     }
   }
