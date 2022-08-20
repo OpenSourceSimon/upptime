@@ -1,23 +1,20 @@
 [
   {
     "name": "Simon",
-    "url": "https://simonrijntjes.nl",
+    "url": "https://simonrijntjes.nl/",
     "icon": "https://favicons.githubusercontent.com/simonrijntjes.nl",
     "slug": "simon",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 533,
-    "timeDay": 575,
-    "timeWeek": 533,
+    "timeDay": 573,
+    "timeWeek": 532,
     "timeMonth": 533,
     "timeYear": 533,
-    "dailyMinutesDown": {
-      "2022-08-13": 806,
-      "2022-08-12": 107
-    }
+    "dailyMinutesDown": {}
   }
 ]
