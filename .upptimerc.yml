@@ -20,7 +20,7 @@ status-website:
 
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "/9 * * * *"
+  responseTime: "*/9 * * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
