@@ -8,7 +8,7 @@ sites:
   - name: Twingate
     url: $TWINGATE
   - name: TEST: Local IP
-    url: 192.168.2.24
+    url: http://simon.local/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
