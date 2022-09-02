@@ -7,6 +7,8 @@ sites:
     url: https://simonrijntjes.nl/
   - name: My WordPress
     url: https://simonrijntjes.nl/wordpress/
+  - name: Quote API
+    url: https://simonrijntjes.nl/quote.php
   - name: Twingate
     url: $TWINGATE
   - name: Synology QuickConnect
