@@ -7,7 +7,7 @@ sites:
     url: https://simonrijntjes.nl/
   - name: Twingate
     url: $TWINGATE
-  - name: TEST: Local IP
+  - name: Test
     url: http://simon.local/
 
 status-website:
