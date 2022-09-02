@@ -7,6 +7,9 @@ sites:
     url: https://simonrijntjes.nl/
   - name: Twingate
     url: $TWINGATE
+  - name: Synology NAS
+    url: $SYNOLOGY
+    port: $PORT
   - name: Reddit Bot Documentation
     url: https://reddit-video-maker-bot.netlify.app/
 
