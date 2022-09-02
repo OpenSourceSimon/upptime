@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 461,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 477,
+    "timeDay": 500,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 223,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 253,
+    "timeDay": 234,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test",
-    "url": "http://simon.local/",
-    "icon": "https://favicons.githubusercontent.com/simon.local",
-    "slug": "test",
-    "status": "down",
-    "uptime": "9.23%",
-    "uptimeDay": "9.23%",
-    "uptimeWeek": "9.23%",
-    "uptimeMonth": "9.23%",
-    "uptimeYear": "9.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-09-02": 0
-    }
   }
 ]
