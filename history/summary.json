@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 500,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 498,
+    "timeDay": 542,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   },
   {
@@ -28,12 +28,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 230,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 254,
+    "timeDay": 246,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Synology NAS",
+    "url": "$SYNOLOGY",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "synology-nas",
+    "status": "down",
+    "uptime": "73.12%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "73.12%",
+    "uptimeMonth": "73.12%",
+    "uptimeYear": "73.12%",
+    "time": 70,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 70,
+    "timeYear": 70,
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   },
   {
     "name": "Reddit Bot Documentation",
@@ -46,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 193,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "time": 150,
+    "timeDay": 150,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   }
 ]
