@@ -58,18 +58,20 @@
     "url": "https://source.unsplash.com/random/3840x2160/?nature",
     "icon": "https://favicons.githubusercontent.com/source.unsplash.com",
     "slug": "unsplash-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 29052,
     "timeDay": 29052,
     "timeWeek": 29052,
     "timeMonth": 29052,
     "timeYear": 29052,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "Twingate",
