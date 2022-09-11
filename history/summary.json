@@ -76,18 +76,20 @@
     "url": "https://simonrijntjes.nl/quote.php",
     "icon": "https://favicons.githubusercontent.com/simonrijntjes.nl",
     "slug": "quote-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 385,
-    "timeDay": 385,
+    "timeDay": 386,
     "timeWeek": 387,
     "timeMonth": 385,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 2
+    }
   },
   {
     "name": "Unsplash API",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/source.unsplash.com",
     "slug": "unsplash-api",
     "status": "degraded",
-    "uptime": "6.88%",
-    "uptimeDay": "6.88%",
-    "uptimeWeek": "6.88%",
-    "uptimeMonth": "6.88%",
-    "uptimeYear": "6.88%",
+    "uptime": "6.51%",
+    "uptimeDay": "6.51%",
+    "uptimeWeek": "6.51%",
+    "uptimeMonth": "6.51%",
+    "uptimeYear": "6.51%",
     "time": 28866,
     "timeDay": 28866,
     "timeWeek": 28866,
     "timeMonth": 28866,
     "timeYear": 28866,
     "dailyMinutesDown": {
-      "2022-09-11": 213
+      "2022-09-11": 226
     }
   },
   {
