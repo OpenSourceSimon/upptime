@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://StopmotionSimonYT.github.io/website-uptime)
+[**Visit our status website →**](https://OpenSourceSimon.github.io/website-uptime)
 
 ## 📄 License
 
