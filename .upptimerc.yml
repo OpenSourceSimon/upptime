@@ -5,17 +5,27 @@ repo: upptime # The name of this repository
 sites:
   - name: My Website
     url: https://simonrijntjes.nl/
+    
   - name: My WordPress
     url: https://simonrijntjes.nl/wordpress/
-  - name: Quote API
-    url: https://simonrijntjes.nl/quote.php
-  - name: Unsplash API
-    url: https://source.unsplash.com/random/3840x2160/?nature
-    __dangerous__body_down: "Heroku"
+    
   - name: Twingate
     url: $TWINGATE
+    
   - name: Synology QuickConnect
     url: $SYNOLOGY
+    
+  - name: Quote API
+    url: https://simonrijntjes.nl/quote.php
+    
+  - name: Unsplash API
+    url: https://source.unsplash.com/random/3840x2160/?nature
+    maxResponseTime: 5000
+    __dangerous__body_down: "Heroku"
+    
+  - name: Binance API
+    url: https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT
+    
   - name: Reddit Bot Documentation
     url: https://reddit-video-maker-bot.netlify.app/
 
