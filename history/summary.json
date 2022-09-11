@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/simonrijntjes.nl",
     "slug": "quote-api",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.67%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 385,
     "timeDay": 385,
     "timeWeek": 386,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2022-09-11": 30
+      "2022-09-11": 42
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/source.unsplash.com",
     "slug": "unsplash-api",
     "status": "down",
-    "uptime": "5.84%",
-    "uptimeDay": "5.84%",
-    "uptimeWeek": "5.84%",
-    "uptimeMonth": "5.84%",
-    "uptimeYear": "5.84%",
+    "uptime": "5.59%",
+    "uptimeDay": "5.59%",
+    "uptimeWeek": "5.59%",
+    "uptimeMonth": "5.59%",
+    "uptimeYear": "5.59%",
     "time": 28866,
     "timeDay": 28866,
     "timeWeek": 28866,
     "timeMonth": 28866,
     "timeYear": 28866,
     "dailyMinutesDown": {
-      "2022-09-11": 254
+      "2022-09-11": 266
     }
   },
   {
