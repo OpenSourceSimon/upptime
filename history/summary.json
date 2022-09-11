@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 534,
+    "timeDay": 536,
     "timeWeek": 528,
     "timeMonth": 527,
     "timeYear": 527,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2046,
-    "timeDay": 2133,
+    "time": 2045,
+    "timeDay": 2131,
     "timeWeek": 2054,
-    "timeMonth": 2046,
-    "timeYear": 2046,
+    "timeMonth": 2045,
+    "timeYear": 2045,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
+    "time": 318,
     "timeDay": 334,
-    "timeWeek": 317,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "timeWeek": 316,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 163,
+    "time": 146,
+    "timeDay": 159,
     "timeWeek": 145,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.54%",
-    "time": 384,
-    "timeDay": 384,
+    "time": 385,
+    "timeDay": 385,
     "timeWeek": 386,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2022-09-11": 58
     }
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/source.unsplash.com",
     "slug": "unsplash-api",
     "status": "down",
-    "uptime": "5.26%",
-    "uptimeDay": "5.26%",
-    "uptimeWeek": "5.26%",
-    "uptimeMonth": "5.26%",
-    "uptimeYear": "5.26%",
+    "uptime": "4.86%",
+    "uptimeDay": "4.86%",
+    "uptimeWeek": "4.86%",
+    "uptimeMonth": "4.86%",
+    "uptimeYear": "4.86%",
     "time": 28866,
     "timeDay": 28866,
     "timeWeek": 28866,
     "timeMonth": 28866,
     "timeYear": 28866,
     "dailyMinutesDown": {
-      "2022-09-11": 284
+      "2022-09-11": 309
     }
   },
   {
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "time": 331,
+    "timeDay": 331,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -141,7 +141,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 216,
+    "timeDay": 214,
     "timeWeek": 213,
     "timeMonth": 228,
     "timeYear": 228,
