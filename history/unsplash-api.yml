@@ -1,7 +1,7 @@
 url: https://source.unsplash.com/random/3840x2160/?nature
-status: degraded
+status: up
 code: 200
-responseTime: 25750
-lastUpdated: 2022-09-12T17:14:31.343Z
+responseTime: 282
+lastUpdated: 2022-09-12T17:34:24.073Z
 startTime: Sun Sep 11 2022 08:47:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
