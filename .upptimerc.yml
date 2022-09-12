@@ -21,7 +21,7 @@ sites:
   - name: Unsplash API
     url: https://source.unsplash.com/random/3840x2160/?nature
     maxResponseTime: 5000
-    __dangerous__body_down: "Heroku"
+    __dangerous__body_down: "error"
     
   - name: Binance API
     url: https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT
