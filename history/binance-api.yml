@@ -1,7 +1,7 @@
 url: https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT
 status: up
 code: 200
-responseTime: 175
-lastUpdated: 2022-09-13T17:29:40.275Z
+responseTime: 329
+lastUpdated: 2022-09-13T17:51:17.523Z
 startTime: Sun Sep 11 2022 09:03:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
