@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/source.unsplash.com",
     "slug": "unsplash-api",
     "status": "degraded",
-    "uptime": "33.24%",
+    "uptime": "33.13%",
     "uptimeDay": "39.34%",
-    "uptimeWeek": "33.24%",
-    "uptimeMonth": "33.24%",
-    "uptimeYear": "33.24%",
+    "uptimeWeek": "33.13%",
+    "uptimeMonth": "33.13%",
+    "uptimeYear": "33.13%",
     "time": 11165,
     "timeDay": 9646,
     "timeWeek": 11165,
     "timeMonth": 11165,
     "timeYear": 11165,
     "dailyMinutesDown": {
-      "2022-09-13": 676,
+      "2022-09-13": 686,
       "2022-09-12": 908,
       "2022-09-11": 553
     }
