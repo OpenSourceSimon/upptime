@@ -5,15 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: My Website
     url: https://simonrijntjes.nl/
+    maxResponseTime: 5000
     
   - name: My WordPress
     url: https://simonrijntjes.nl/wordpress/
     
   - name: Twingate
     url: $TWINGATE
+    maxResponseTime: 5000
     
   - name: Synology QuickConnect
     url: $SYNOLOGY
+    maxResponseTime: 2500
         
   - name: Unsplash API
     url: https://source.unsplash.com/random/3840x2160/?nature
@@ -22,9 +25,11 @@ sites:
     
   - name: Quotable API
     url: https://api.quotable.io/random
+    maxResponseTime: 5000
     
   - name: Reddit Bot Documentation
     url: https://reddit-video-maker-bot.netlify.app/
+    maxResponseTime: 2500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
