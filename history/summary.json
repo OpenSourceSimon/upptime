@@ -102,19 +102,17 @@
     "icon": "https://favicons.githubusercontent.com/api.quotable.io",
     "slug": "quotable-api",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 338,
     "timeDay": 1052,
     "timeWeek": 374,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {
-      "2022-09-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reddit Bot Documentation",
