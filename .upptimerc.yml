@@ -9,19 +9,23 @@ sites:
     
   - name: My WordPress
     url: https://simonrijntjes.nl/wordpress/
+    icon: https://s1.wp.com/i/favicon.ico
     
   - name: Twingate
     url: $TWINGATE
     maxResponseTime: 5000
+    icon: https://www.twingate.com/favicon-32x32.png?v=3e6e4cc23bdfc2e232c3549c76c75d21
     
   - name: Synology QuickConnect
     url: $SYNOLOGY
     maxResponseTime: 2500
+    icon: https://www.synology.com/img/icon/favicon@2x.png
         
   - name: Unsplash API
     url: https://source.unsplash.com/random/3840x2160/?nature
     maxResponseTime: 2500
     __dangerous__body_down: "error"
+    icon: https://unsplash.com/favicon-32x32.png
     
   - name: Quotable API
     url: https://api.quotable.io/random
@@ -29,7 +33,6 @@ sites:
     
   - name: Reddit Bot Documentation
     url: https://reddit-video-maker-bot.netlify.app/
-    maxResponseTime: 2500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
