@@ -1,8 +1,8 @@
-# [📈 Live Status](https://StopmotionSimonYT.github.io/website-uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://OpenSourceSimon.github.io/upptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Simon](https://simonrijntjes.nl), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/StopmotionSimonYT/website-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/StopmotionSimonYT/website-uptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/StopmotionSimonYT/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/StopmotionSimonYT/website-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/StopmotionSimonYT/website-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/StopmotionSimonYT/website-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/StopmotionSimonYT/website-uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/StopmotionSimonYT/website-uptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/StopmotionSimonYT/website-uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/StopmotionSimonYT/website-uptime/actions?query=workflow%3A%22Static+Site+CI%22)
@@ -27,7 +27,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://OpenSourceSimon.github.io/website-uptime)
+[**Visit our status website →**](https://OpenSourceSimon.github.io/upptime)
 
 ## 📄 License
 
