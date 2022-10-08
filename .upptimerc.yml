@@ -20,6 +20,10 @@ sites:
     url: $SYNOLOGY
     maxResponseTime: 2500
     icon: https://www.synology.com/img/icon/favicon@2x.png
+
+  - name: Pythonanywhere
+    url: https://opensourcesimon.eu.pythonanywhere.com/
+    icon: https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large-icononly.png
         
   - name: Unsplash API
     url: https://source.unsplash.com/random/3840x2160/?nature
@@ -46,10 +50,10 @@ status-website:
 workflowSchedule:
   graphs: "0 * * * *"
   responseTime: "*/2 * * * *"
-  staticSite: "0 * * * *"
-  summary: "0 * * * *"
-  updateTemplate: "0 * * * *"
-  updates: "0 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
   uptime: "*/2 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
