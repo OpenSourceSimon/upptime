@@ -78,19 +78,19 @@
     "url": "https://opensourcesimon.eu.pythonanywhere.com/",
     "icon": "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large-icononly.png",
     "slug": "pythonanywhere",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 517,
-    "timeDay": 548,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 515,
+    "timeDay": 544,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {
-      "2022-10-10": 0
+      "2022-10-10": 10
     }
   },
   {
