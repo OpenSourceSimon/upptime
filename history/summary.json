@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/goodmorningtech.vercel.app.ico",
     "slug": "vercel-good-morning-tech",
     "status": "down",
-    "uptime": "2.98%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "2.98%",
-    "uptimeMonth": "2.98%",
-    "uptimeYear": "2.98%",
+    "uptime": "1.36%",
+    "uptimeDay": "1.36%",
+    "uptimeWeek": "1.36%",
+    "uptimeMonth": "1.36%",
+    "uptimeYear": "1.36%",
     "time": 274,
     "timeDay": 274,
     "timeWeek": 274,
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-10-15": 1
+      "2022-10-15": 2
     }
   },
   {
