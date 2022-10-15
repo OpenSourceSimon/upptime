@@ -21,9 +21,11 @@ sites:
     maxResponseTime: 2500
     icon: https://www.synology.com/img/icon/favicon@2x.png
 
-  - name: Pythonanywhere
-    url: https://opensourcesimon.eu.pythonanywhere.com/
-    icon: https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large-icononly.png
+  - name: Vercel Good Morning Tech
+    url: https://goodmorningtech.vercel.app/
+    
+  - name: Database Good Morning Tech
+    url: https://www.elephantsql.com/
         
   - name: Unsplash API
     url: https://source.unsplash.com/random/3840x2160/?nature
