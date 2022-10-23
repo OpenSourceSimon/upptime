@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/simonrijntjes.nl.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 562,
     "timeDay": 571,
-    "timeWeek": 601,
+    "timeWeek": 600,
     "timeMonth": 590,
     "timeYear": 562,
-    "dailyMinutesDown": {
-      "2022-10-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "My WordPress",
@@ -25,19 +23,17 @@
     "icon": "https://s1.wp.com/i/favicon.ico",
     "slug": "my-word-press",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1982,
     "timeDay": 1879,
-    "timeWeek": 2067,
+    "timeWeek": 2066,
     "timeMonth": 1933,
     "timeYear": 1982,
-    "dailyMinutesDown": {
-      "2022-10-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Twingate",
@@ -83,14 +79,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/goodmorningtech.vercel.app.ico",
     "slug": "vercel-good-morning-tech",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "95.96%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
     "time": 3067,
     "timeDay": 3214,
-    "timeWeek": 3266,
+    "timeWeek": 3275,
     "timeMonth": 3067,
     "timeYear": 3067,
     "dailyMinutesDown": {
@@ -155,7 +151,7 @@
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 166,
-    "timeWeek": 181,
+    "timeWeek": 180,
     "timeMonth": 324,
     "timeYear": 306,
     "dailyMinutesDown": {}
