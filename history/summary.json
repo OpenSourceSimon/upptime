@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simonrijntjes.nl.ico",
     "slug": "my-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 563,
     "timeDay": 599,
     "timeWeek": 604,
     "timeMonth": 595,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-10-25": 1
+      "2022-10-25": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://s1.wp.com/i/favicon.ico",
     "slug": "my-word-press",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "92.56%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.85%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.85%",
     "time": 2003,
     "timeDay": 3518,
     "timeWeek": 2213,
     "timeMonth": 1966,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2022-10-25": 107
+      "2022-10-25": 111
     }
   },
   {
