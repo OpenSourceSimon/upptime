@@ -53,7 +53,7 @@
     "time": 344,
     "timeDay": 269,
     "timeWeek": 289,
-    "timeMonth": 299,
+    "timeMonth": 300,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2022-09-20": 184
@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/goodmorningtech.vercel.app.ico",
     "slug": "vercel-good-morning-tech",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.58%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.56%",
     "time": 3142,
     "timeDay": 3819,
     "timeWeek": 3209,
@@ -125,7 +125,7 @@
     "slug": "unsplash-api",
     "status": "up",
     "uptime": "93.23%",
-    "uptimeDay": "93.77%",
+    "uptimeDay": "95.02%",
     "uptimeWeek": "84.98%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "93.23%",
@@ -152,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.quotable.io.ico",
     "slug": "quotable-api",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "69.67%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.25%",
+    "uptimeDay": "68.43%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.25%",
     "time": 299,
     "timeDay": 498,
     "timeWeek": 257,
     "timeMonth": 287,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2022-10-29": 437
+      "2022-10-29": 455
     }
   },
   {
