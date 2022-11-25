@@ -26,7 +26,7 @@
     "slug": "my-word-press",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "93.60%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.80%",
@@ -128,9 +128,9 @@
     "slug": "quotable-api",
     "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "86.42%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "86.20%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "98.90%",
     "time": 256,
     "timeDay": 439,
@@ -138,7 +138,7 @@
     "timeMonth": 224,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2022-11-25": 195,
+      "2022-11-25": 198,
       "2022-10-30": 53,
       "2022-10-29": 847
     }
