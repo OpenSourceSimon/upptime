@@ -126,11 +126,11 @@
     "url": "https://api.quotable.io/random",
     "icon": "https://icons.duckduckgo.com/ip3/api.quotable.io.ico",
     "slug": "quotable-api",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "95.50%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "99.03%",
     "time": 257,
     "timeDay": 436,
@@ -138,7 +138,7 @@
     "timeMonth": 224,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-11-25": 64,
+      "2022-11-25": 69,
       "2022-10-30": 53,
       "2022-10-29": 847
     }
