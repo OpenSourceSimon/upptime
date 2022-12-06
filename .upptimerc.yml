@@ -49,7 +49,7 @@ workflowSchedule:
   staticSite: "0 * * * *"
   summary: "*/20 * * * *"
   updateTemplate: "*/20 * * * *"
-  updates: "*/10 * * * *"
+  updates: "*/20 * * * *"
   uptime: "*/2 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
