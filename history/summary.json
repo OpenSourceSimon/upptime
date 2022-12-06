@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
-    "timeDay": 604,
-    "timeWeek": 617,
+    "timeDay": 606,
+    "timeWeek": 616,
     "timeMonth": 610,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.71%",
     "time": 1914,
-    "timeDay": 1784,
-    "timeWeek": 2281,
+    "timeDay": 1777,
+    "timeWeek": 2280,
     "timeMonth": 1880,
     "timeYear": 1914,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 302,
-    "timeDay": 273,
+    "timeDay": 274,
     "timeWeek": 267,
     "timeMonth": 265,
     "timeYear": 302,
@@ -93,7 +93,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 2170,
-    "timeDay": 1565,
+    "timeDay": 1563,
     "timeWeek": 1588,
     "timeMonth": 1720,
     "timeYear": 2170,
@@ -117,8 +117,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 695,
-    "timeWeek": 743,
+    "timeDay": 697,
+    "timeWeek": 742,
     "timeMonth": 448,
     "timeYear": 337,
     "dailyMinutesDown": {}
@@ -152,19 +152,19 @@
     "url": "https://reddit-video-maker-bot.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/reddit-video-maker-bot.netlify.app.ico",
     "slug": "reddit-bot-documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 205,
-    "timeDay": 225,
+    "timeDay": 227,
     "timeWeek": 153,
     "timeMonth": 147,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-12-06": 2
+      "2022-12-06": 9
     }
   }
 ]
