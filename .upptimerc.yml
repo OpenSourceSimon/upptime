@@ -22,7 +22,7 @@ sites:
     icon: https://www.synology.com/img/icon/favicon@2x.png
 
   - name: Vercel Good Morning Tech
-    url: https://goodmorningtech.simonrijntjes.nl/
+    url: https://goodmorningtech.news/
     
   - name: Database Good Morning Tech
     url: https://www.mongodb.com/
